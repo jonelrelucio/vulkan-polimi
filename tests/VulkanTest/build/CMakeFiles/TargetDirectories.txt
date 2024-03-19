@@ -1,0 +1,3 @@
+/home/hojo/projects/vulkan-polimi/tests/VulkanTest/build/CMakeFiles/VulkanTest.dir
+/home/hojo/projects/vulkan-polimi/tests/VulkanTest/build/CMakeFiles/edit_cache.dir
+/home/hojo/projects/vulkan-polimi/tests/VulkanTest/build/CMakeFiles/rebuild_cache.dir

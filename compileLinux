@@ -1,0 +1,1 @@
+g++ -std=c++17 -Iheaders -O2 -o $1 $1.cpp -lglfw -lvulkan -ldl -lpthread -lX11 -lXrandr
